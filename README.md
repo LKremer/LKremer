@@ -7,8 +7,8 @@ I'm Lukas, a PhD student in the labs of Ana Martin-Villalba and Simon Anders in 
 
 ## GitHub Stats
 
-<a href="https://github.com/LKremer/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LKremer&count_private=true&show_icons=true" alt="GitHub stats" />
-</a> <a href="https://github.com/LKremer/github-readme-stats">
+</a> <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LKremer&hide=html,ruby" alt= "Top languages" />
 </a>
