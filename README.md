@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**LKremer/LKremer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
-Here are some ideas to get you started:
+# Hi there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Lukas, a PhD student in the labs of Ana Martin-Villalba and Simon Anders in Heidelberg, Germany.
+
+## GitHub Stats
+
+<a href="https://github.com/LKremer/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LKremer&count_private=true&show_icons=true" alt="GitHub stats" />
+</a> <a href="https://github.com/LKremer/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LKremer&hide=html,ruby" alt= "Top languages" />
+</a>
