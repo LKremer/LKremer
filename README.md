@@ -3,7 +3,7 @@
 
 # Hi there
 
-I'm Lukas, a postdoctoral researcher in the labs of [Simon Anders](https://www.zmbh.uni-heidelberg.de/Anders/default.shtml) and [Ana Martin-Villalba](https://martin-villalba-lab.github.io/) in Heidelberg, Germany. I share Python and R code related to bioinformatics, data science, omics and the occasional fun code project.
+I'm Lukas, a postdoctoral researcher in the lab of [Simon Anders](https://www.zmbh.uni-heidelberg.de/Anders/default.shtml) in Heidelberg, Germany. I share Python and R code related to bioinformatics, data science, omics and the occasional fun code project.
 
 [![Lukas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LKremer&theme=vision-friendly-dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
